@@ -8,22 +8,6 @@
 * [submission PR](https://github.com/EdDearment-401-advanced-javascript/lab19file/pull/1)
 * [travis](https://travis-ci.com/EdDearment-401-advanced-javascript/lab19file)
 * [back-end](https://rocky-shore-73294.herokuapp.com/) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
-
-#### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
-
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
@@ -35,15 +19,11 @@ Usage Notes or examples
 * You will also need the three other repos
 [server](https://github.com/EdDearment-401-advanced-javascript/lab19Server/tree/dev)
 [logger](https://github.com/EdDearment-401-advanced-javascript/lab19Logger/tree/dev)
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+[API](https://github.com/EdDearment-401-advanced-javascript/lab19API/blob/master/README.md)
   
 #### Tests
 * How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+npm run test
 
 #### UML
-![](./assets/----.jpg)
+![](https://drive.google.com/file/d/1Cd5tubn-61h489acmTG6qLEm3BSiZsdD/view?usp=sharing)
